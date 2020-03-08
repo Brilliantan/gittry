@@ -1,0 +1,5 @@
+git config --global user.name "Zhang San"
+git config --global user.email "zhangsan@foo.com"
+git init
+git add file.c
+git commit
