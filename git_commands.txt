@@ -16,4 +16,10 @@ git checkout -- filename
 git reset HEAD <file>
 git pull origin master --allow-unrelated-histories
 git push origin master
+git add readme.txt
+git commit -m "branch test"
+git checkout -b dev
+=
+git branch dev + git checkout dev
+git checkout master.
 
