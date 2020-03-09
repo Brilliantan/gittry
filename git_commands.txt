@@ -5,7 +5,7 @@ git add file.c
 git commit
 git log
 git reflog
-git diff
+git diff	//比较工作区和暂存区
 git status
 git reset --hard commit_id(HEAD^^ HEAD~100)
 git log --pretty=oneline
