@@ -3,3 +3,9 @@ git config --global user.email "zhangsan@foo.com"
 git init
 git add file.c
 git commit
+git log
+git reflog
+git diff
+git status
+git reset --hard commit_id(HEAD^^ HEAD~100)
+git log --pretty=oneline
