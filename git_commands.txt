@@ -14,4 +14,6 @@ git checkout -- filename
 	-- is very important that the function of this command will change to change the branch without "--"
 
 git reset HEAD <file>
+git pull origin master --allow-unrelated-histories
+git push origin master
 
